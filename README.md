@@ -53,3 +53,11 @@ This project helped me understand how NumPy can be used to process and analyze d
 - Add data visualizations
 - Perform Exploratory Data Analysis (EDA)
 - Create a dashboard
+
+  ## 📁 Project Structure
+
+```text
+demographic-data-analysis-numpy/
+├── README.md
+├── demographic_analysis_numpy.ipynb
+└── makeSenseOfCensus.csv
