@@ -61,3 +61,10 @@ demographic-data-analysis-numpy/
 ├── README.md
 ├── demographic_analysis_numpy.ipynb
 └── makeSenseOfCensus.csv
+
+## ▶️ How to Run
+
+1. Download the repository.
+2. Open `demographic_analysis_numpy.ipynb` in Jupyter Notebook.
+3. Make sure NumPy is installed.
+4. Run all cells.
